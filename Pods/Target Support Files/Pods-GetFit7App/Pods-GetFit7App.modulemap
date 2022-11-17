@@ -1,0 +1,6 @@
+module Pods_GetFit7App {
+  umbrella header "Pods-GetFit7App-umbrella.h"
+
+  export *
+  module * { export * }
+}
